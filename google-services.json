@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332801672964",
+    "project_id": "tutorial-3d280",
+    "storage_bucket": "tutorial-3d280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332801672964:android:0d34d5e8833e268cd73251",
+        "android_client_info": {
+          "package_name": "com.kbc.arapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHyc8gTOtPnzfGIMtBN7Es9KvwrmX1Qvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
